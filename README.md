@@ -14,4 +14,4 @@ Google Collaboratory Notebook was used to conduct analysis for this project. Cli
 * **2015-2019-US-Imcome-Investigation.ipynb**: A Google Colaboratory otebook with merged datasets, pivot table and bar chart. 
 [![Open in Colab](http://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14QELJc3pfDdSW4xcKf3r-dpaRcIhidgI?usp=sharing)
 ## Conclusion
-Ratio of high income family is increasing within the five years. 
+Ratio of high income family is increasing within the five years. More comprehensive datasets and charts should be build when more python codes are learnt. 
