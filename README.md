@@ -4,8 +4,8 @@ Income directly influence citizens' livelihood. In this miniproject, US househol
 ## Industry Problem
 How did household income in the US change during the past five years? 
 ## Original Data
-[2015 household income data](https://raw.githubusercontent.com/zpren1998/2015-2019-US-Imcome-Investigation/main/INCOME%20IN%20THE%20PAST%2012%20MONTHS%20(IN%202015%20INFLATION-ADJUSTED%20DOLLARS).csv)  
-[2016 household income data](https://raw.githubusercontent.com/zpren1998/2015-2019-US-Imcome-Investigation/main/INCOME%20IN%20THE%20PAST%2012%20MONTHS%20(IN%202016%20INFLATION-ADJUSTED%20DOLLARS).csv)  
-[2017 household income data](https://raw.githubusercontent.com/zpren1998/2015-2019-US-Imcome-Investigation/main/INCOME%20IN%20THE%20PAST%2012%20MONTHS%20(IN%202017%20INFLATION-ADJUSTED%20DOLLARS).csv)  
-[2018 household income data](https://raw.githubusercontent.com/zpren1998/2015-2019-US-Imcome-Investigation/main/INCOME%20IN%20THE%20PAST%2012%20MONTHS%20(IN%202018%20INFLATION-ADJUSTED%20DOLLARS).csv)  
-[2019 household income data](https://raw.githubusercontent.com/zpren1998/2015-2019-US-Imcome-Investigation/main/INCOME%20IN%20THE%20PAST%2012%20MONTHS%20(IN%202019%20INFLATION-ADJUSTED%20DOLLARS).csv)
+[2015 household income data](https://github.com/zpren1998/2015-2019-US-Imcome-Investigation/blob/main/INCOME%20IN%20THE%20PAST%2012%20MONTHS%20(IN%202015%20INFLATION-ADJUSTED%20DOLLARS).csv)  
+[2016 household income data](https://github.com/zpren1998/2015-2019-US-Imcome-Investigation/blob/main/INCOME%20IN%20THE%20PAST%2012%20MONTHS%20(IN%202016%20INFLATION-ADJUSTED%20DOLLARS).csv)  
+[2017 household income data](https://github.com/zpren1998/2015-2019-US-Imcome-Investigation/blob/main/INCOME%20IN%20THE%20PAST%2012%20MONTHS%20(IN%202017%20INFLATION-ADJUSTED%20DOLLARS).csv)  
+[2018 household income data](https://github.com/zpren1998/2015-2019-US-Imcome-Investigation/blob/main/INCOME%20IN%20THE%20PAST%2012%20MONTHS%20(IN%202018%20INFLATION-ADJUSTED%20DOLLARS).csv)  
+[2019 household income data](https://github.com/zpren1998/2015-2019-US-Imcome-Investigation/blob/main/INCOME%20IN%20THE%20PAST%2012%20MONTHS%20(IN%202019%20INFLATION-ADJUSTED%20DOLLARS).csv)
